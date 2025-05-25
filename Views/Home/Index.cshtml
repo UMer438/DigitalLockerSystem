@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container-fluid p-0">
+    <!-- Hero Section -->
+    <div class="hero-section d-flex align-items-center text-white"
+         style="background: url('@Url.Content("~/images/locker-bg.jpg")') center/cover no-repeat; height: 90vh;">
+        <div class="container text-center">
+            <h1 class="display-4 fw-bold">Welcome to Digital Locker System</h1>
+            <p class="lead">Securely store and access your important documents anytime, anywhere.</p>
+
+            @if (User.Identity.IsAuthenticated)
+            {
+                <a class="btn btn-darkblue btn-lg m-2" asp-controller="Files" asp-action="Upload">Upload Files</a>
+                <a class="btn btn-darkblue btn-lg m-2" asp-controller="Files" asp-action="MyFiles">My Documents</a>
+
+            }
+            else
+            {
+                <a class="btn btn-outline-light btn-lg m-2" asp-area="Identity" asp-page="/Account/Login">Login</a>
+                <a class="btn btn-outline-light btn-lg m-2" asp-area="Identity" asp-page="/Account/Register">Register</a>
+            }
+        </div>
+    </div>
+
+    <!-- Feature Section -->
+    <div class="container py-5">
+        <h2 class="text-center mb-4">Why Choose Digital Locker?</h2>
+        <div class="row text-center">
+            <div class="col-md-4">
+                <img src="@Url.Content("~/images/secure.png")" alt="Secure" class="img-fluid mb-3" style="height: 120px;">
+                <h5>Military-Grade Security</h5>
+                <p>We use advanced encryption to ensure your files remain safe and private.</p>
+            </div>
+            <div class="col-md-4">
+                <img src="@Url.Content("~/images/fast-access.png")" alt="Fast" class="img-fluid mb-3" style="height: 120px;">
+                <h5>Instant Access</h5>
+                <p>Access your documents anytime with just a few clicks, from any device.</p>
+            </div>
+            <div class="col-md-4">
+                <img src="@Url.Content("~/images/user-friendly.png")" alt="Easy" class="img-fluid mb-3" style="height: 120px;">
+                <h5>User Friendly</h5>
+                <p>Intuitive interface designed for simplicity and productivity.</p>
+            </div>
+        </div>
+        <div class="text-center mt-4">
+            <a class="btn btn-primary btn-lg" href="/Chat/Index">
+                💬 Open Chat
+            </a>
+        </div>
+
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-white text-center py-4">
+        <div class="container">
+            <p class="mb-0">&copy; 2025 Digital Locker System. All rights reserved.</p>
+        </div>
+    </footer>
+</div>

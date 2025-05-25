@@ -1,0 +1,30 @@
+@{
+    ViewData["Title"] = "Upload File";
+}
+
+<h2>Upload File</h2>
+
+<!-- Display Error Message (e.g., if file size exceeds limit) -->
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        @foreach (var modelError in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@modelError.ErrorMessage</p>
+        }
+    </div>
+}
+
+<div class="alert alert-info">
+    Max file size allowed: <strong>5 GB</strong><br />
+    Supported formats: <strong>.pdf, .jpg, .jpeg, .png, .gif, .mp4</strong>
+</div>
+
+<form asp-action="Upload" enctype="multipart/form-data" method="post">
+    <div class="form-group mb-3">
+        <label for="file">Select File:</label>
+        <input type="file" class="form-control" id="file" name="file" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Upload</button>
+    <a asp-action="MyFiles" class="btn btn-secondary">Back to My Files</a>
+</form>

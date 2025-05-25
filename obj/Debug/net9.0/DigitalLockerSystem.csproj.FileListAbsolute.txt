@@ -1,0 +1,1023 @@
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/appsettings.Development.json
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/appsettings.json
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.staticwebassets.runtime.json
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.staticwebassets.endpoints.json
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.deps.json
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.runtimeconfig.json
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.pdb
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Humanizer.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Data.Sqlite.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Identity.Core.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/SQLitePCLRaw.batteries_v2.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/SQLitePCLRaw.core.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/System.CodeDom.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.csproj.AssemblyReference.cache
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.AssemblyInfoInputs.cache
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.AssemblyInfo.cs
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.csproj.CoreCompileInputs.cache
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.MvcApplicationPartsAssemblyInfo.cs
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.MvcApplicationPartsAssemblyInfo.cache
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.RazorAssemblyInfo.cache
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.RazorAssemblyInfo.cs
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.sourcelink.json
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/scopedcss/bundle/DigitalLockerSystem.styles.css
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/scopedcss/projectbundle/DigitalLockerSystem.bundle.scp.css
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ofa40bqe71-b9sayid5wm.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/j9swiz3yzq-90yqlj465b.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/vltxs1u3vm-xtxxf3hu2r.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/14ipv7q33s-bqjiyaj88i.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/rh65p086id-c2jlpeoesf.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/eb27mqwgz2-erw9l3u2r3.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/9glsckmvxo-aexeepp0ev.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/hh8ihyobdx-d7shbmvgxk.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/bww8ud00yd-ausgxo2sd3.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/edcrak57d7-k8d9w2qqmf.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/sf8kf2lula-cosvhxvwiu.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/3tzsqhslk9-ub07r2b239.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/oxk5o6czdw-fvhpjtyr6v.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/k8b25g0zwc-b7pk76d08c.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/8axix7wldr-fsbi9cje9m.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/d5z9sfpxbi-rzd6atqjts.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/u8428c4e9i-ee0r1s7dh0.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/tg53r17ghy-dxx9fxp4il.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/nlrl0f3xs3-jd9uben2k1.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/1fc4q00scq-khv3u5hwcm.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/8xykfy6qmd-r4e9w2rdcm.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/vsrbd71spn-lcd1t2u6c8.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/cynp17w084-c2oey78nd0.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/7o8oyvng68-tdbxkamptv.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/h9vwtoirpy-j5mq2jizvt.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/o5k23vqhrk-06098lyss8.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/iznc766avz-nvvlpmu67g.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ns4583i71s-s35ty4nyc5.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/47012z8l2l-pj5nd1wqec.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/4vzefxwp2m-46ein0sx1k.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/bh4v3mdph9-v0zj4ognzu.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/l186vlgaag-37tfw0ft22.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/rsc7qacj1u-hrwsygsryq.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/z408qb6q7a-pk9g2wxc8p.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/qfr28sqcy1-ft3s53vfgj.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/0k1i85ntyh-6cfz1n2cew.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/xa379ftczi-6pdc2jztkx.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/lr5hmrr0j7-493y06b0oq.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ivy2s9gwh5-iovd86k7lj.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/higufxz8op-vr1egmr9el.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/s3tglgz8hr-kbrnm935zg.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/vw9sls9bhj-jj8uyg4cgr.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ym8tkpcl2i-y7v9cxd14o.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/zzna4nrm5w-notf2xhcfb.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/igscs4x0yk-h1s4sie4z3.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/zap00c0tb5-63fj8s7r0e.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/pogzkicjpz-0j3bgjxly4.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/j3hwsq15kh-47otxtyo56.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/q3naettu8c-4v8eqarkd7.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ldxy2n3w6q-356vix0kms.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ypthv7q62w-83jwlth58m.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/t6e3b82hrf-mrlpezrjn3.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/uocis9wxbx-lzl9nlhx6b.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/2tikzqlmtu-ag7o75518u.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/9muusbdg0a-x0q3zqp4vz.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/tpsq5dibur-0i3buxo5is.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/t0qo7o574p-o1o13a6vjx.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/b9lhb08218-ttgo8qnofa.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/a3ygkwa5zy-2z0ns9nrw6.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/nezrqnk58p-muycvpuwrr.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/v0zgfp0y55-87fc7y1x7t.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/yfc7ypekbg-mlv21k5csn.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ponjke0oau-gy5psmhczw.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/1ev9p57th4-61n19gt1b8.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/egbywz2glu-fr7q2aak1r.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/myimatqnzc-bqjiyaj88i.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/7vcgbkwnrp-c2jlpeoesf.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/5de7vomjjm-erw9l3u2r3.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/5atc3o4dhf-aexeepp0ev.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/t63bddntvu-d7shbmvgxk.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/7r1evkfpr2-ausgxo2sd3.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/56ovpbraid-k8d9w2qqmf.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/sqvioef0cg-cosvhxvwiu.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/7vweqym4aa-ub07r2b239.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/l9t5mf6ipy-fvhpjtyr6v.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/i6rsxld54w-b7pk76d08c.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/b24mfzsniz-fsbi9cje9m.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/l9ea7818dm-rzd6atqjts.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/e1ienyihi5-ee0r1s7dh0.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/fcect645je-dxx9fxp4il.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/vofdxo0q9o-jd9uben2k1.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/4top5xaodm-khv3u5hwcm.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/yty4mqd2k1-r4e9w2rdcm.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/uzlnjzkizh-lcd1t2u6c8.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/xcrkk7pblj-c2oey78nd0.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/a94l5cy2rt-tdbxkamptv.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/o495jttc20-j5mq2jizvt.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/9ibvje5y0f-06098lyss8.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/zxu5itnqgh-nvvlpmu67g.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/0xexo4j8qw-s35ty4nyc5.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/5pnehx6h43-pj5nd1wqec.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/oyqvt1v4ae-46ein0sx1k.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/t4bg2kwy91-v0zj4ognzu.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/9nxi4lukjv-37tfw0ft22.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/48hekrujs6-hrwsygsryq.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/63fd5jwsqu-pk9g2wxc8p.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/vpld2964ff-ft3s53vfgj.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/6vvbi78heb-6cfz1n2cew.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/g0fae2kx48-6pdc2jztkx.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/oauz1w1w06-493y06b0oq.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/jgesih9014-iovd86k7lj.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/7v47j49st8-vr1egmr9el.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/s82mtxlrxs-kbrnm935zg.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/5jpp2r7ndm-jj8uyg4cgr.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/67pxfevcqu-y7v9cxd14o.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/8bsxay93wy-notf2xhcfb.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ml4gq9lhgw-h1s4sie4z3.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/fpcchb0h1d-63fj8s7r0e.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/27cj5422jm-0j3bgjxly4.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/6fi0mzd6bf-47otxtyo56.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/jnrafxymdu-4v8eqarkd7.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ayokn8r4fa-l3n5xuwxn8.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/33lp0yic4k-ilo7uva0vt.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/3l57r5tzu0-qlccset4i1.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/q37sdfjk3k-lzl9nlhx6b.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/k73oal2yz9-ag7o75518u.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/gjkxgjtlbe-xzw0cte36n.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ox91jnk0y2-0i3buxo5is.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/avzffmp4is-o1o13a6vjx.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/xj36dekbpd-ttgo8qnofa.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/csx9mq4mhc-2z0ns9nrw6.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/f8oykg8d27-muycvpuwrr.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/3wosdj7no7-87fc7y1x7t.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/z4w2ig312g-jfsiqqwiad.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/41sa18xs32-gat6f5tkpe.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/f36m5syx5q-gat6f5tkpe.gz
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets.build.json
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets.development.json
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets/msbuild.DigitalLockerSystem.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets/msbuild.DigitalLockerSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets/msbuild.build.DigitalLockerSystem.props
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.DigitalLockerSystem.props
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.DigitalLockerSystem.props
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalL.11A84D98.Up2Date
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/refint/DigitalLockerSystem.dll
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.pdb
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.genruntimeconfig.cache
+/Users/muhammadumeryasin/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/ref/DigitalLockerSystem.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/appsettings.Development.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/appsettings.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.staticwebassets.runtime.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.staticwebassets.endpoints.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.deps.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.runtimeconfig.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.pdb
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Humanizer.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Data.Sqlite.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Identity.Core.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/SQLitePCLRaw.batteries_v2.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/SQLitePCLRaw.core.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/System.CodeDom.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.csproj.AssemblyReference.cache
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.AssemblyInfoInputs.cache
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.AssemblyInfo.cs
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.csproj.CoreCompileInputs.cache
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.MvcApplicationPartsAssemblyInfo.cs
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.MvcApplicationPartsAssemblyInfo.cache
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.RazorAssemblyInfo.cache
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.RazorAssemblyInfo.cs
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.sourcelink.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/scopedcss/bundle/DigitalLockerSystem.styles.css
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/scopedcss/projectbundle/DigitalLockerSystem.bundle.scp.css
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ofa40bqe71-b9sayid5wm.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/j9swiz3yzq-90yqlj465b.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/vltxs1u3vm-xtxxf3hu2r.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/14ipv7q33s-bqjiyaj88i.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/rh65p086id-c2jlpeoesf.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/eb27mqwgz2-erw9l3u2r3.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/9glsckmvxo-aexeepp0ev.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/hh8ihyobdx-d7shbmvgxk.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/bww8ud00yd-ausgxo2sd3.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/edcrak57d7-k8d9w2qqmf.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/sf8kf2lula-cosvhxvwiu.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/3tzsqhslk9-ub07r2b239.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/oxk5o6czdw-fvhpjtyr6v.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/k8b25g0zwc-b7pk76d08c.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/8axix7wldr-fsbi9cje9m.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/d5z9sfpxbi-rzd6atqjts.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/u8428c4e9i-ee0r1s7dh0.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/tg53r17ghy-dxx9fxp4il.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/nlrl0f3xs3-jd9uben2k1.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/1fc4q00scq-khv3u5hwcm.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/8xykfy6qmd-r4e9w2rdcm.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/vsrbd71spn-lcd1t2u6c8.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/cynp17w084-c2oey78nd0.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/7o8oyvng68-tdbxkamptv.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/h9vwtoirpy-j5mq2jizvt.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/o5k23vqhrk-06098lyss8.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/iznc766avz-nvvlpmu67g.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ns4583i71s-s35ty4nyc5.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/47012z8l2l-pj5nd1wqec.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/4vzefxwp2m-46ein0sx1k.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/bh4v3mdph9-v0zj4ognzu.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/l186vlgaag-37tfw0ft22.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/rsc7qacj1u-hrwsygsryq.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/z408qb6q7a-pk9g2wxc8p.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/qfr28sqcy1-ft3s53vfgj.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/0k1i85ntyh-6cfz1n2cew.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/xa379ftczi-6pdc2jztkx.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/lr5hmrr0j7-493y06b0oq.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ivy2s9gwh5-iovd86k7lj.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/higufxz8op-vr1egmr9el.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/s3tglgz8hr-kbrnm935zg.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/vw9sls9bhj-jj8uyg4cgr.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ym8tkpcl2i-y7v9cxd14o.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/zzna4nrm5w-notf2xhcfb.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/igscs4x0yk-h1s4sie4z3.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/zap00c0tb5-63fj8s7r0e.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/pogzkicjpz-0j3bgjxly4.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/j3hwsq15kh-47otxtyo56.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/q3naettu8c-4v8eqarkd7.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ldxy2n3w6q-356vix0kms.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ypthv7q62w-83jwlth58m.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/t6e3b82hrf-mrlpezrjn3.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/uocis9wxbx-lzl9nlhx6b.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/2tikzqlmtu-ag7o75518u.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/9muusbdg0a-x0q3zqp4vz.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/tpsq5dibur-0i3buxo5is.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/t0qo7o574p-o1o13a6vjx.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/b9lhb08218-ttgo8qnofa.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/a3ygkwa5zy-2z0ns9nrw6.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/nezrqnk58p-muycvpuwrr.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/v0zgfp0y55-87fc7y1x7t.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/yfc7ypekbg-mlv21k5csn.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ponjke0oau-gy5psmhczw.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/1ev9p57th4-61n19gt1b8.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/egbywz2glu-fr7q2aak1r.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/myimatqnzc-bqjiyaj88i.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/7vcgbkwnrp-c2jlpeoesf.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/5de7vomjjm-erw9l3u2r3.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/5atc3o4dhf-aexeepp0ev.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/t63bddntvu-d7shbmvgxk.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/7r1evkfpr2-ausgxo2sd3.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/56ovpbraid-k8d9w2qqmf.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/sqvioef0cg-cosvhxvwiu.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/7vweqym4aa-ub07r2b239.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/l9t5mf6ipy-fvhpjtyr6v.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/i6rsxld54w-b7pk76d08c.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/b24mfzsniz-fsbi9cje9m.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/l9ea7818dm-rzd6atqjts.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/e1ienyihi5-ee0r1s7dh0.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/fcect645je-dxx9fxp4il.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/vofdxo0q9o-jd9uben2k1.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/4top5xaodm-khv3u5hwcm.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/yty4mqd2k1-r4e9w2rdcm.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/uzlnjzkizh-lcd1t2u6c8.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/xcrkk7pblj-c2oey78nd0.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/a94l5cy2rt-tdbxkamptv.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/o495jttc20-j5mq2jizvt.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/9ibvje5y0f-06098lyss8.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/zxu5itnqgh-nvvlpmu67g.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/0xexo4j8qw-s35ty4nyc5.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/5pnehx6h43-pj5nd1wqec.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/oyqvt1v4ae-46ein0sx1k.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/t4bg2kwy91-v0zj4ognzu.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/9nxi4lukjv-37tfw0ft22.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/48hekrujs6-hrwsygsryq.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/63fd5jwsqu-pk9g2wxc8p.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/vpld2964ff-ft3s53vfgj.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/6vvbi78heb-6cfz1n2cew.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/g0fae2kx48-6pdc2jztkx.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/oauz1w1w06-493y06b0oq.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/jgesih9014-iovd86k7lj.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/7v47j49st8-vr1egmr9el.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/s82mtxlrxs-kbrnm935zg.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/5jpp2r7ndm-jj8uyg4cgr.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/67pxfevcqu-y7v9cxd14o.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/8bsxay93wy-notf2xhcfb.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ml4gq9lhgw-h1s4sie4z3.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/fpcchb0h1d-63fj8s7r0e.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/27cj5422jm-0j3bgjxly4.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/6fi0mzd6bf-47otxtyo56.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/jnrafxymdu-4v8eqarkd7.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ayokn8r4fa-l3n5xuwxn8.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/33lp0yic4k-ilo7uva0vt.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/3l57r5tzu0-qlccset4i1.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/q37sdfjk3k-lzl9nlhx6b.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/k73oal2yz9-ag7o75518u.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/gjkxgjtlbe-xzw0cte36n.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/ox91jnk0y2-0i3buxo5is.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/avzffmp4is-o1o13a6vjx.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/xj36dekbpd-ttgo8qnofa.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/csx9mq4mhc-2z0ns9nrw6.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/f8oykg8d27-muycvpuwrr.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/3wosdj7no7-87fc7y1x7t.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/z4w2ig312g-jfsiqqwiad.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/41sa18xs32-gat6f5tkpe.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/f36m5syx5q-gat6f5tkpe.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets.build.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets.development.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets/msbuild.DigitalLockerSystem.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets/msbuild.DigitalLockerSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets/msbuild.build.DigitalLockerSystem.props
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.DigitalLockerSystem.props
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.DigitalLockerSystem.props
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalL.11A84D98.Up2Date
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/refint/DigitalLockerSystem.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.pdb
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.genruntimeconfig.cache
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/ref/DigitalLockerSystem.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Connections.Client.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.SignalR.Client.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.SignalR.Client.Core.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Features.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/System.Net.ServerSentEvents.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/System.Net.WebSockets.WebSocketProtocol.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/bin/Debug/net9.0/System.Threading.Channels.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem/DigitalLockerSystem/obj/Debug/net9.0/compressed/uo1v91zon7-b8rmlo7xsw.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/appsettings.Development.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/appsettings.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.staticwebassets.endpoints.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.staticwebassets.runtime.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.deps.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.runtimeconfig.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/DigitalLockerSystem.pdb
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Humanizer.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Connections.Client.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.SignalR.Client.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.SignalR.Client.Core.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Data.Sqlite.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Features.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Identity.Core.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/SQLitePCLRaw.batteries_v2.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/SQLitePCLRaw.core.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/System.CodeDom.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/System.Net.ServerSentEvents.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/System.Net.WebSockets.WebSocketProtocol.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/System.Threading.Channels.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.csproj.AssemblyReference.cache
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.AssemblyInfoInputs.cache
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.AssemblyInfo.cs
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.csproj.CoreCompileInputs.cache
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.MvcApplicationPartsAssemblyInfo.cs
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.MvcApplicationPartsAssemblyInfo.cache
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.RazorAssemblyInfo.cache
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.RazorAssemblyInfo.cs
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.sourcelink.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/scopedcss/bundle/DigitalLockerSystem.styles.css
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/scopedcss/projectbundle/DigitalLockerSystem.bundle.scp.css
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/ofa40bqe71-b9sayid5wm.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/j9swiz3yzq-90yqlj465b.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/vltxs1u3vm-xtxxf3hu2r.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/14ipv7q33s-bqjiyaj88i.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/rh65p086id-c2jlpeoesf.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/eb27mqwgz2-erw9l3u2r3.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/9glsckmvxo-aexeepp0ev.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/hh8ihyobdx-d7shbmvgxk.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/bww8ud00yd-ausgxo2sd3.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/edcrak57d7-k8d9w2qqmf.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/sf8kf2lula-cosvhxvwiu.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/3tzsqhslk9-ub07r2b239.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/oxk5o6czdw-fvhpjtyr6v.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/k8b25g0zwc-b7pk76d08c.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/8axix7wldr-fsbi9cje9m.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/d5z9sfpxbi-rzd6atqjts.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/u8428c4e9i-ee0r1s7dh0.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/tg53r17ghy-dxx9fxp4il.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/nlrl0f3xs3-jd9uben2k1.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/1fc4q00scq-khv3u5hwcm.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/8xykfy6qmd-r4e9w2rdcm.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/vsrbd71spn-lcd1t2u6c8.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/cynp17w084-c2oey78nd0.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/7o8oyvng68-tdbxkamptv.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/h9vwtoirpy-j5mq2jizvt.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/o5k23vqhrk-06098lyss8.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/iznc766avz-nvvlpmu67g.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/ns4583i71s-s35ty4nyc5.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/47012z8l2l-pj5nd1wqec.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/4vzefxwp2m-46ein0sx1k.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/bh4v3mdph9-v0zj4ognzu.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/l186vlgaag-37tfw0ft22.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/rsc7qacj1u-hrwsygsryq.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/z408qb6q7a-pk9g2wxc8p.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/qfr28sqcy1-ft3s53vfgj.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/0k1i85ntyh-6cfz1n2cew.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/xa379ftczi-6pdc2jztkx.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/lr5hmrr0j7-493y06b0oq.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/ivy2s9gwh5-iovd86k7lj.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/higufxz8op-vr1egmr9el.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/s3tglgz8hr-kbrnm935zg.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/vw9sls9bhj-jj8uyg4cgr.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/ym8tkpcl2i-y7v9cxd14o.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/zzna4nrm5w-notf2xhcfb.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/igscs4x0yk-h1s4sie4z3.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/zap00c0tb5-63fj8s7r0e.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/pogzkicjpz-0j3bgjxly4.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/j3hwsq15kh-47otxtyo56.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/q3naettu8c-4v8eqarkd7.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/ldxy2n3w6q-356vix0kms.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/ypthv7q62w-83jwlth58m.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/t6e3b82hrf-mrlpezrjn3.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/uocis9wxbx-lzl9nlhx6b.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/2tikzqlmtu-ag7o75518u.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/9muusbdg0a-x0q3zqp4vz.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/tpsq5dibur-0i3buxo5is.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/t0qo7o574p-o1o13a6vjx.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/b9lhb08218-ttgo8qnofa.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/a3ygkwa5zy-2z0ns9nrw6.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/nezrqnk58p-muycvpuwrr.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/v0zgfp0y55-87fc7y1x7t.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/yfc7ypekbg-mlv21k5csn.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/ponjke0oau-gy5psmhczw.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/1ev9p57th4-61n19gt1b8.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/uo1v91zon7-b8rmlo7xsw.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/egbywz2glu-fr7q2aak1r.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/myimatqnzc-bqjiyaj88i.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/7vcgbkwnrp-c2jlpeoesf.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/5de7vomjjm-erw9l3u2r3.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/5atc3o4dhf-aexeepp0ev.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/t63bddntvu-d7shbmvgxk.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/7r1evkfpr2-ausgxo2sd3.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/56ovpbraid-k8d9w2qqmf.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/sqvioef0cg-cosvhxvwiu.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/7vweqym4aa-ub07r2b239.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/l9t5mf6ipy-fvhpjtyr6v.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/i6rsxld54w-b7pk76d08c.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/b24mfzsniz-fsbi9cje9m.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/l9ea7818dm-rzd6atqjts.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/e1ienyihi5-ee0r1s7dh0.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/fcect645je-dxx9fxp4il.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/vofdxo0q9o-jd9uben2k1.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/4top5xaodm-khv3u5hwcm.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/yty4mqd2k1-r4e9w2rdcm.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/uzlnjzkizh-lcd1t2u6c8.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/xcrkk7pblj-c2oey78nd0.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/a94l5cy2rt-tdbxkamptv.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/o495jttc20-j5mq2jizvt.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/9ibvje5y0f-06098lyss8.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/zxu5itnqgh-nvvlpmu67g.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/0xexo4j8qw-s35ty4nyc5.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/5pnehx6h43-pj5nd1wqec.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/oyqvt1v4ae-46ein0sx1k.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/t4bg2kwy91-v0zj4ognzu.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/9nxi4lukjv-37tfw0ft22.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/48hekrujs6-hrwsygsryq.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/63fd5jwsqu-pk9g2wxc8p.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/vpld2964ff-ft3s53vfgj.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/6vvbi78heb-6cfz1n2cew.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/g0fae2kx48-6pdc2jztkx.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/oauz1w1w06-493y06b0oq.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/jgesih9014-iovd86k7lj.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/7v47j49st8-vr1egmr9el.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/s82mtxlrxs-kbrnm935zg.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/5jpp2r7ndm-jj8uyg4cgr.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/67pxfevcqu-y7v9cxd14o.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/8bsxay93wy-notf2xhcfb.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/ml4gq9lhgw-h1s4sie4z3.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/fpcchb0h1d-63fj8s7r0e.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/27cj5422jm-0j3bgjxly4.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/6fi0mzd6bf-47otxtyo56.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/jnrafxymdu-4v8eqarkd7.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/ayokn8r4fa-l3n5xuwxn8.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/33lp0yic4k-ilo7uva0vt.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/3l57r5tzu0-qlccset4i1.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/q37sdfjk3k-lzl9nlhx6b.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/k73oal2yz9-ag7o75518u.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/gjkxgjtlbe-xzw0cte36n.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/ox91jnk0y2-0i3buxo5is.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/avzffmp4is-o1o13a6vjx.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/xj36dekbpd-ttgo8qnofa.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/csx9mq4mhc-2z0ns9nrw6.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/f8oykg8d27-muycvpuwrr.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/3wosdj7no7-87fc7y1x7t.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/z4w2ig312g-jfsiqqwiad.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/41sa18xs32-gat6f5tkpe.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/f36m5syx5q-gat6f5tkpe.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/staticwebassets.build.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/staticwebassets.development.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/staticwebassets/msbuild.DigitalLockerSystem.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/staticwebassets/msbuild.DigitalLockerSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/staticwebassets/msbuild.build.DigitalLockerSystem.props
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.DigitalLockerSystem.props
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.DigitalLockerSystem.props
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/DigitalL.11A84D98.Up2Date
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/refint/DigitalLockerSystem.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.pdb
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/DigitalLockerSystem.genruntimeconfig.cache
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/ref/DigitalLockerSystem.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Build.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.Build.Framework.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Features.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.DiaSymReader.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.NET.StringTools.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/dotnet-aspnet-codegenerator-design.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/NuGet.Common.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/NuGet.Configuration.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/NuGet.DependencyResolver.Core.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/NuGet.Frameworks.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/NuGet.LibraryModel.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/NuGet.Packaging.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/NuGet.ProjectModel.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/NuGet.Protocol.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/NuGet.Versioning.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/System.Reflection.MetadataLoadContext.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/af/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ar/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/az/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/bg/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/bn-BD/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/cs/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/da/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/de/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/el/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/es/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/fa/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/fi-FI/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/fr/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/fr-BE/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/he/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/hr/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/hu/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/hy/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/id/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/is/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/it/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ja/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ko-KR/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ku/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/lv/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ms-MY/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/mt/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/nb/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/nb-NO/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/nl/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pl/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pt/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ro/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ru/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/sk/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/sl/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/sr/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/sr-Latn/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/sv/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/th-TH/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/tr/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/uk/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/vi/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-CN/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Humanizer.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll

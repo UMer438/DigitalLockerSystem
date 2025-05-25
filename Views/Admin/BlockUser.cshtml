@@ -1,0 +1,40 @@
+@model DigitalLockerSystem.Controllers.BlockUserViewModel
+
+@{
+    ViewData["Title"] = "Block / Unblock User";
+}
+
+<h2>Block / Unblock User: @Model.Email</h2>
+
+<form asp-action="BlockUser" method="post">
+    <input type="hidden" asp-for="UserId" />
+
+    <div class="form-check mb-3">
+        <input asp-for="BlockPermanently" class="form-check-input" type="checkbox" id="blockPermanently" />
+        <label class="form-check-label" for="blockPermanently">Block Permanently</label>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="BlockTemporarilyUntil" class="form-label">Block Temporarily Until (date & time)</label>
+        <input asp-for="BlockTemporarilyUntil" class="form-control" type="datetime-local" />
+        <span class="text-muted">Leave empty if not temporary blocking</span>
+    </div>
+
+    <button type="submit" class="btn btn-danger">Save</button>
+    <a asp-action="Index" class="btn btn-secondary ms-2">Cancel</a>
+</form>
+
+@section Scripts {
+    <script>
+        // If "Block Permanently" is checked, disable temporary date input
+        document.getElementById("blockPermanently").addEventListener("change", function () {
+            document.querySelector("input[name='BlockTemporarilyUntil']").disabled = this.checked;
+        });
+
+        // On page load, apply the disabling logic
+        window.addEventListener("load", function () {
+            var checkbox = document.getElementById("blockPermanently");
+            document.querySelector("input[name='BlockTemporarilyUntil']").disabled = checkbox.checked;
+        });
+    </script>
+}

@@ -1,61 +1,271 @@
-﻿@{
+﻿
+@{
     ViewData["Title"] = "Home";
 }
 
-<div class="container-fluid p-0">
-    <!-- Hero Section -->
-    <div class="hero-section d-flex align-items-center text-white"
-         style="background: url('@Url.Content("~/images/locker-bg.jpg")') center/cover no-repeat; height: 90vh;">
-        <div class="container text-center">
-            <h1 class="display-4 fw-bold">Welcome to Digital Locker System</h1>
-            <p class="lead">Securely store and access your important documents anytime, anywhere.</p>
+@section Styles {
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
 
-            @if (User.Identity.IsAuthenticated)
-            {
-                <a class="btn btn-darkblue btn-lg m-2" asp-controller="Files" asp-action="Upload">Upload Files</a>
-                <a class="btn btn-darkblue btn-lg m-2" asp-controller="Files" asp-action="MyFiles">My Documents</a>
+        .hero-section {
+            background: url('@Url.Content("~/images/locker-bg.jpg?v=4")') no-repeat center center;
+            background-size: cover;
+            min-height: 100vh;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            position: relative;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+        }
 
+        .hero-section::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.4); /* Brighter overlay */
+            z-index: 0;
+        }
+
+        .hero-section .content {
+            position: relative;
+            z-index: 1;
+            text-align: center;
+            padding: 2rem;
+            width: 100%;
+            max-width: 1200px;
+        }
+
+        .btn-darkpurple {
+            background-color: #5e2a84;
+            color: white;
+            border: none;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .btn-darkpurple:hover {
+            background-color: #7d3fb8; /* Lighter purple on hover */
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        /* My Files button with text change effect */
+        .btn-myfiles {
+            position: relative;
+        }
+
+        .btn-myfiles .original-text,
+        .btn-myfiles .hover-text {
+            transition: opacity 0.3s ease;
+        }
+
+        .btn-myfiles .hover-text {
+            position: absolute;
+            left: 0;
+            right: 0;
+            opacity: 0;
+        }
+
+        .btn-myfiles:hover .original-text {
+            opacity: 0;
+        }
+
+        .btn-myfiles:hover .hover-text {
+            opacity: 1;
+        }
+
+        .btn-outline-light:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .feature-section {
+            padding: 4rem 1rem;
+            background-color: #f8f9fa;
+        }
+
+        .feature-section h2, .feature-section h5 {
+            color: #5e2a84;
+        }
+
+        .feature-section .col-md-4 {
+            padding: 1.5rem;
+        }
+
+        .feature-section img {
+            transition: transform 0.3s ease;
+        }
+
+        .feature-section img:hover {
+            transform: scale(1.1);
+        }
+
+        footer {
+            background-color: #f5f5f5;
+            color: #333;
+            padding: 2rem 0;
+            border-top: 1px solid #e0e0e0;
+        }
+
+        footer a {
+            color: #5e2a84;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        footer a:hover {
+            color: #3a1a52;
+            text-decoration: underline;
+        }
+
+        footer h5 {
+            color: #5e2a84;
+            margin-bottom: 1rem;
+        }
+
+        footer hr {
+            border-color: #ddd;
+        }
+
+        .chat-btn {
+            padding: 0.5rem 1.5rem;
+            font-size: 1rem;
+        }
+
+        @@media (max-width: 768px) {
+            .hero-section .content {
+                padding: 1rem;
             }
-            else
-            {
-                <a class="btn btn-outline-light btn-lg m-2" asp-area="Identity" asp-page="/Account/Login">Login</a>
-                <a class="btn btn-outline-light btn-lg m-2" asp-area="Identity" asp-page="/Account/Register">Register</a>
+            
+            .display-4 {
+                font-size: 2.5rem;
             }
-        </div>
+            
+            .lead {
+                font-size: 1.1rem;
+            }
+            
+            .btn-lg {
+                padding: 0.5rem 1rem;
+                font-size: 1rem;
+            }
+        }
+    </style>
+}
+
+<!-- Fullscreen Hero Section -->
+<div class="hero-section">
+    <div class="content">
+        <h1 class="display-4 fw-bold mb-4">Welcome to Digital Locker System</h1>
+        <p class="lead mb-5">Securely store and access your important documents anytime, anywhere.</p>
+
+        @if (User.Identity.IsAuthenticated)
+        {
+            <div class="d-flex justify-content-center flex-wrap">
+                <a class="btn btn-darkpurple btn-lg m-2 px-4 py-3" asp-controller="Files" asp-action="Upload">
+                    <i class="fas fa-upload me-2"></i>Upload Files
+                </a>
+                <a class="btn btn-darkpurple btn-lg btn-myfiles m-2 px-4 py-3" asp-controller="Files" asp-action="MyFiles">
+                    <span class="original-text"><i class="fas fa-folder me-2"></i>My Files</span>
+                    <span class="hover-text"><i class="fas fa-folder me-2"></i>My Files</span>
+                </a>
+            </div>
+            
+            <div class="mt-4 text-light">
+                <small>Hello @User.Identity.Name</small>
+            </div>
+        }
+        else
+        {
+            <div class="d-flex justify-content-center flex-wrap">
+                <a class="btn btn-outline-light btn-lg m-2 px-4 py-3" asp-area="Identity" asp-page="/Account/Login">
+                    <i class="fas fa-sign-in-alt me-2"></i>Login
+                </a>
+                <a class="btn btn-outline-light btn-lg m-2 px-4 py-3" asp-area="Identity" asp-page="/Account/Register">
+                    <i class="fas fa-user-plus me-2"></i>Register
+                </a>
+            </div>
+        }
     </div>
-
-    <!-- Feature Section -->
-    <div class="container py-5">
-        <h2 class="text-center mb-4">Why Choose Digital Locker?</h2>
-        <div class="row text-center">
-            <div class="col-md-4">
-                <img src="@Url.Content("~/images/secure.png")" alt="Secure" class="img-fluid mb-3" style="height: 120px;">
-                <h5>Military-Grade Security</h5>
-                <p>We use advanced encryption to ensure your files remain safe and private.</p>
-            </div>
-            <div class="col-md-4">
-                <img src="@Url.Content("~/images/fast-access.png")" alt="Fast" class="img-fluid mb-3" style="height: 120px;">
-                <h5>Instant Access</h5>
-                <p>Access your documents anytime with just a few clicks, from any device.</p>
-            </div>
-            <div class="col-md-4">
-                <img src="@Url.Content("~/images/user-friendly.png")" alt="Easy" class="img-fluid mb-3" style="height: 120px;">
-                <h5>User Friendly</h5>
-                <p>Intuitive interface designed for simplicity and productivity.</p>
-            </div>
-        </div>
-        <div class="text-center mt-4">
-            <a class="btn btn-primary btn-lg" href="/Chat/Index">
-                💬 Open Chat
-            </a>
-        </div>
-
-    </div>
-
-    <!-- Footer -->
-    <footer class="bg-dark text-white text-center py-4">
-        <div class="container">
-            <p class="mb-0">&copy; 2025 Digital Locker System. All rights reserved.</p>
-        </div>
-    </footer>
 </div>
+
+<!-- Feature Section -->
+<div class="feature-section container">
+    <h2 class="text-center mb-5">Why Choose Digital Locker?</h2>
+    <div class="row text-center">
+        <div class="col-md-4">
+            <img src="@Url.Content("~/images/secure.png")" alt="Secure" class="img-fluid mb-4" style="height: 120px;">
+            <h5 class="mb-3">Military-Grade Security</h5>
+            <p class="px-3">We use advanced encryption to ensure your files remain safe and private with bank-level security protocols.</p>
+        </div>
+        <div class="col-md-4">
+            <img src="@Url.Content("~/images/fast-access.png")" alt="Fast" class="img-fluid mb-4" style="height: 120px;">
+            <h5 class="mb-3">Instant Access</h5>
+            <p class="px-3">Access your documents anytime with just a few clicks, from any device, anywhere in the world.</p>
+        </div>
+        <div class="col-md-4">
+            <img src="@Url.Content("~/images/user-friendly.png")" alt="Easy" class="img-fluid mb-4" style="height: 120px;">
+            <h5 class="mb-3">User Friendly</h5>
+            <p class="px-3">Intuitive interface designed for simplicity and productivity with drag-and-drop functionality.</p>
+        </div>
+    </div>
+    <div class="text-center mt-5">
+        <a class="btn btn-primary chat-btn" href="/Chat/Index">
+            <i class="fas fa-comments me-2"></i>Chat Assistant
+        </a>
+    </div>
+</div>
+
+<!-- Footer -->
+<footer class="text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 mb-3 mb-md-0">
+                <h5>Quick Links</h5>
+                <ul class="list-unstyled">
+                    <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+                    <li><a asp-controller="Files" asp-action="MyFiles">My Documents</a></li>
+                    <li><a href="/Chat/Index">Chat Support</a></li>
+                </ul>
+            </div>
+            <div class="col-md-4 mb-3 mb-md-0">
+                <h5>Legal</h5>
+                <ul class="list-unstyled">
+                    <li><a asp-controller="Home" asp-action="Privacy">Privacy Policy</a></li>
+                    <li><a href="#">Terms of Service</a></li>
+                    <li><a href="#">Security Information</a></li>
+                </ul>
+            </div>
+            <div class="col-md-4">
+                <h5>Contact</h5>
+                <ul class="list-unstyled">
+                    <li><i class="fas fa-envelope me-2"></i> support@digitallocker.com</li>
+                    <li><i class="fas fa-phone me-2"></i> (123) 456-7890</li>
+                </ul>
+            </div>
+        </div>
+        <hr class="my-4">
+        <div class="row">
+            <div class="col-12">
+                &copy; 2025 - Digital Locker System - All Rights Reserved
+            </div>
+        </div>
+    </div>
+</footer>
+
+@section Scripts {
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+}can you make ui in such a way that in background there is a purple color that matches the picture dark purple color and all the ui components are compatible according to it make it beautiful and give me the complete file
+in this image is current ui

@@ -1,0 +1,169 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #3a1a52; /* Dark purple base */
+}
+
+/* Hero Section */
+.hero-section {
+    background: url("images/locker-bg.jpg") no-repeat center center;
+    background-size: cover;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: relative;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+.hero-section::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(58, 26, 82, 0.7); /* Purple overlay */
+    z-index: 0;
+}
+
+.hero-section .content {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    padding: 2rem;
+    max-width: 1000px;
+}
+
+/* Buttons */
+.btn-darkpurple {
+    background-color: #5e2a84;
+    color: white;
+    border: none;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-darkpurple:hover {
+    background-color: #7d3fb8;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.btn-outline-light {
+    border: 2px solid white;
+    color: white;
+    background: transparent;
+    transition: all 0.3s ease;
+}
+
+.btn-outline-light:hover {
+    background-color: white;
+    color: #5e2a84;
+    transform: translateY(-2px);
+}
+
+.btn-myfiles {
+    position: relative;
+}
+
+.btn-myfiles .original-text,
+.btn-myfiles .hover-text {
+    transition: opacity 0.3s ease;
+}
+
+.btn-myfiles .hover-text {
+    position: absolute;
+    left: 0;
+    right: 0;
+    opacity: 0;
+}
+
+.btn-myfiles:hover .original-text {
+    opacity: 0;
+}
+
+.btn-myfiles:hover .hover-text {
+    opacity: 1;
+}
+
+/* Features */
+.feature-section {
+    padding: 4rem 1rem;
+    background-color: #f8f9fa;
+}
+
+.feature-section h2,
+.feature-section h5 {
+    color: #5e2a84;
+}
+
+.feature-section img {
+    transition: transform 0.3s ease;
+}
+
+.feature-section img:hover {
+    transform: scale(1.1);
+}
+
+/* Chat Button */
+.chat-btn {
+    padding: 0.75rem 2rem;
+    font-size: 1.1rem;
+    background-color: #5e2a84;
+    color: white;
+    border: none;
+    transition: 0.3s ease;
+}
+
+.chat-btn:hover {
+    background-color: #7d3fb8;
+    transform: translateY(-2px);
+}
+
+/* Footer */
+footer {
+    background-color: #2e153f;
+    color: #ddd;
+    padding: 2rem 0;
+}
+
+footer a {
+    color: #a78bfa;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+footer hr {
+    border-color: #6b4e9b;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .hero-section .content {
+        padding: 1rem;
+    }
+
+    .display-4 {
+        font-size: 2.5rem;
+    }
+
+    .lead {
+        font-size: 1.1rem;
+    }
+
+    .btn-lg {
+        padding: 0.5rem 1rem;
+        font-size: 1rem;
+    }
+}

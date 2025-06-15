@@ -1,5 +1,41 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\admin-user-management.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DigitalLockerSystem</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DigitalLockerSystem</BasePath>
+      <RelativePath>css/admin-user-management.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>cwgd43xvtz</Fingerprint>
+      <Integrity>NCls1Lvm+bDAXQpo9GSB1hMbB5hQxo3KNrQYVNtAqY0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\admin-user-management.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\home.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>DigitalLockerSystem</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/DigitalLockerSystem</BasePath>
+      <RelativePath>css/home.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>f2v6ufh50b</Fingerprint>
+      <Integrity>x6xo5qEO9uZOIt72FYkYvm9/j3BA6ze+q+3TqH//TIo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\home.css'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))">
       <SourceType>Package</SourceType>
       <SourceId>DigitalLockerSystem</SourceId>
@@ -84,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>i8i48bgn07</Fingerprint>
-      <Integrity>UglKfLgb4XM85hUvXruK1hDGz09nDj+tjPKtL1xQ+fI=</Integrity>
+      <Fingerprint>grbj6yrgc8</Fingerprint>
+      <Integrity>tP/npzXkrKvQRqX3aEAlO3Sp0oA3pRLaGZgil8S59xs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\locker-bg.jpg'))</OriginalItemSpec>
@@ -1242,59 +1278,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\0373f869-b27e-44c2-8488-434ed8ea3b3c.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fc4b637e-e11f-4a82-9bd4-74b1110e81ec.zip'))">
       <SourceType>Package</SourceType>
       <SourceId>DigitalLockerSystem</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/DigitalLockerSystem</BasePath>
-      <RelativePath>uploads/0373f869-b27e-44c2-8488-434ed8ea3b3c.jpg</RelativePath>
+      <RelativePath>uploads/fc4b637e-e11f-4a82-9bd4-74b1110e81ec.zip</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>i8i48bgn07</Fingerprint>
-      <Integrity>UglKfLgb4XM85hUvXruK1hDGz09nDj+tjPKtL1xQ+fI=</Integrity>
+      <Fingerprint>63nz6b68do</Fingerprint>
+      <Integrity>Xm6OJ4RcwfC06ipkGp571PWRRjrEZ3A+pNIkInS2y+A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\0373f869-b27e-44c2-8488-434ed8ea3b3c.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\93487d77-33a4-4771-93cb-2fc185683b62.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>DigitalLockerSystem</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/DigitalLockerSystem</BasePath>
-      <RelativePath>uploads/93487d77-33a4-4771-93cb-2fc185683b62.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ve1hiwp3wd</Fingerprint>
-      <Integrity>Z0N1Ic+6j342WKqZCh9IyadCYGhKtb+nDl492MBxMj4=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\93487d77-33a4-4771-93cb-2fc185683b62.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\af1ac5db-87ab-4f68-9a03-9f4003f99e5c.pdf'))">
-      <SourceType>Package</SourceType>
-      <SourceId>DigitalLockerSystem</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/DigitalLockerSystem</BasePath>
-      <RelativePath>uploads/af1ac5db-87ab-4f68-9a03-9f4003f99e5c.pdf</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ty18mbe6lk</Fingerprint>
-      <Integrity>9f27Vo/0oisEOhWe6uCffSyy9GX6/+13fxnERQbw6VQ=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\af1ac5db-87ab-4f68-9a03-9f4003f99e5c.pdf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\fc4b637e-e11f-4a82-9bd4-74b1110e81ec.zip'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

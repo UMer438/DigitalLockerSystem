@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets/DigitalLockerSystem.gat6f5tkpe.bundle.scp.css"
     },
     {
+      "Id": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/css/admin-user-management.css",
+      "PackagePath": "staticwebassets/css/admin-user-management.css"
+    },
+    {
+      "Id": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/css/home.css",
+      "PackagePath": "staticwebassets/css/home.css"
+    },
+    {
       "Id": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
@@ -277,16 +285,8 @@
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.slim.min.map"
     },
     {
-      "Id": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/uploads/0373f869-b27e-44c2-8488-434ed8ea3b3c.jpg",
-      "PackagePath": "staticwebassets/uploads/0373f869-b27e-44c2-8488-434ed8ea3b3c.jpg"
-    },
-    {
-      "Id": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/uploads/93487d77-33a4-4771-93cb-2fc185683b62.jpg",
-      "PackagePath": "staticwebassets/uploads/93487d77-33a4-4771-93cb-2fc185683b62.jpg"
-    },
-    {
-      "Id": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/uploads/af1ac5db-87ab-4f68-9a03-9f4003f99e5c.pdf",
-      "PackagePath": "staticwebassets/uploads/af1ac5db-87ab-4f68-9a03-9f4003f99e5c.pdf"
+      "Id": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/uploads/fc4b637e-e11f-4a82-9bd4-74b1110e81ec.zip",
+      "PackagePath": "staticwebassets/uploads/fc4b637e-e11f-4a82-9bd4-74b1110e81ec.zip"
     },
     {
       "Id": "obj/Debug/net9.0/staticwebassets/msbuild.DigitalLockerSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

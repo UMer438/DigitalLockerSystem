@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iT9Edvz4Br2LUO2ONd4UB9GjqOj3ShE5bV2DMMb6MRQ=",
+  "Hash": "VbpggyE+4kqWs6GARIYh8u0vzLx92wyF4PSLEyqk4uQ=",
   "Source": "DigitalLockerSystem",
   "BasePath": "_content/DigitalLockerSystem",
   "Mode": "Default",
@@ -2138,6 +2138,27 @@
       "OriginalItemSpec": "/Users/muhammadumeryasin/.nuget/packages/microsoft.aspnetcore.identity.ui/9.0.4/staticwebassets/V5/lib/jquery/dist/jquery.slim.js"
     },
     {
+      "Identity": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/a7wm0cck6i-cwgd43xvtz.gz",
+      "SourceId": "DigitalLockerSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/DigitalLockerSystem",
+      "RelativePath": "css/admin-user-management#[.{fingerprint=cwgd43xvtz}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/css/admin-user-management.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xt7lfmo5uz",
+      "Integrity": "5WG0bFOJsqMr1JHoQJkY/1/Rp1u9Eq3Ck5nOmlL04HI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/css/admin-user-management.css"
+    },
+    {
       "Identity": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/a94l5cy2rt-tdbxkamptv.gz",
       "SourceId": "DigitalLockerSystem",
       "SourceType": "Discovered",
@@ -3839,6 +3860,27 @@
       "OriginalItemSpec": "/Users/muhammadumeryasin/.nuget/packages/microsoft.aspnetcore.identity.ui/9.0.4/staticwebassets/V5/lib/jquery/LICENSE.txt"
     },
     {
+      "Identity": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/yimtxls2ag-f2v6ufh50b.gz",
+      "SourceId": "DigitalLockerSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/DigitalLockerSystem",
+      "RelativePath": "css/home#[.{fingerprint=f2v6ufh50b}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/css/home.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zhexrt2iuj",
+      "Integrity": "WQlXF37brL7OQbIKbRyhKdLwuF0RR4Yqf7kOV29nXik=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/css/home.css"
+    },
+    {
       "Identity": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/ym8tkpcl2i-y7v9cxd14o.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
@@ -4049,6 +4091,48 @@
       "OriginalItemSpec": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/scopedcss/projectbundle/DigitalLockerSystem.bundle.scp.css"
     },
     {
+      "Identity": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/css/admin-user-management.css",
+      "SourceId": "DigitalLockerSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/",
+      "BasePath": "_content/DigitalLockerSystem",
+      "RelativePath": "css/admin-user-management#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cwgd43xvtz",
+      "Integrity": "NCls1Lvm+bDAXQpo9GSB1hMbB5hQxo3KNrQYVNtAqY0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/admin-user-management.css"
+    },
+    {
+      "Identity": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/css/home.css",
+      "SourceId": "DigitalLockerSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/",
+      "BasePath": "_content/DigitalLockerSystem",
+      "RelativePath": "css/home#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f2v6ufh50b",
+      "Integrity": "x6xo5qEO9uZOIt72FYkYvm9/j3BA6ze+q+3TqH//TIo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/home.css"
+    },
+    {
       "Identity": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/css/site.css",
       "SourceId": "DigitalLockerSystem",
       "SourceType": "Discovered",
@@ -4126,8 +4210,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "i8i48bgn07",
-      "Integrity": "UglKfLgb4XM85hUvXruK1hDGz09nDj+tjPKtL1xQ+fI=",
+      "Fingerprint": "grbj6yrgc8",
+      "Integrity": "tP/npzXkrKvQRqX3aEAlO3Sp0oA3pRLaGZgil8S59xs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/locker-bg.jpg"
@@ -5477,12 +5561,12 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/uploads/0373f869-b27e-44c2-8488-434ed8ea3b3c.jpg",
+      "Identity": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/uploads/fc4b637e-e11f-4a82-9bd4-74b1110e81ec.zip",
       "SourceId": "DigitalLockerSystem",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/",
       "BasePath": "_content/DigitalLockerSystem",
-      "RelativePath": "uploads/0373f869-b27e-44c2-8488-434ed8ea3b3c#[.{fingerprint}]?.jpg",
+      "RelativePath": "uploads/fc4b637e-e11f-4a82-9bd4-74b1110e81ec#[.{fingerprint}]?.zip",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -5491,56 +5575,610 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "i8i48bgn07",
-      "Integrity": "UglKfLgb4XM85hUvXruK1hDGz09nDj+tjPKtL1xQ+fI=",
+      "Fingerprint": "63nz6b68do",
+      "Integrity": "Xm6OJ4RcwfC06ipkGp571PWRRjrEZ3A+pNIkInS2y+A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/0373f869-b27e-44c2-8488-434ed8ea3b3c.jpg"
-    },
-    {
-      "Identity": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/uploads/93487d77-33a4-4771-93cb-2fc185683b62.jpg",
-      "SourceId": "DigitalLockerSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/",
-      "BasePath": "_content/DigitalLockerSystem",
-      "RelativePath": "uploads/93487d77-33a4-4771-93cb-2fc185683b62#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ve1hiwp3wd",
-      "Integrity": "Z0N1Ic+6j342WKqZCh9IyadCYGhKtb+nDl492MBxMj4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/93487d77-33a4-4771-93cb-2fc185683b62.jpg"
-    },
-    {
-      "Identity": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/uploads/af1ac5db-87ab-4f68-9a03-9f4003f99e5c.pdf",
-      "SourceId": "DigitalLockerSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/",
-      "BasePath": "_content/DigitalLockerSystem",
-      "RelativePath": "uploads/af1ac5db-87ab-4f68-9a03-9f4003f99e5c#[.{fingerprint}]?.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ty18mbe6lk",
-      "Integrity": "9f27Vo/0oisEOhWe6uCffSyy9GX6/+13fxnERQbw6VQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/af1ac5db-87ab-4f68-9a03-9f4003f99e5c.pdf"
+      "OriginalItemSpec": "wwwroot/uploads/fc4b637e-e11f-4a82-9bd4-74b1110e81ec.zip"
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/admin-user-management.css",
+      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/a7wm0cck6i-cwgd43xvtz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001030927835"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "969"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5WG0bFOJsqMr1JHoQJkY/1/Rp1u9Eq3Ck5nOmlL04HI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 00:12:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NCls1Lvm+bDAXQpo9GSB1hMbB5hQxo3KNrQYVNtAqY0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NCls1Lvm+bDAXQpo9GSB1hMbB5hQxo3KNrQYVNtAqY0="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin-user-management.css",
+      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/css/admin-user-management.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NCls1Lvm+bDAXQpo9GSB1hMbB5hQxo3KNrQYVNtAqY0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 00:12:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NCls1Lvm+bDAXQpo9GSB1hMbB5hQxo3KNrQYVNtAqY0="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin-user-management.css.gz",
+      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/a7wm0cck6i-cwgd43xvtz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5WG0bFOJsqMr1JHoQJkY/1/Rp1u9Eq3Ck5nOmlL04HI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 00:12:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5WG0bFOJsqMr1JHoQJkY/1/Rp1u9Eq3Ck5nOmlL04HI="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin-user-management.cwgd43xvtz.css",
+      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/a7wm0cck6i-cwgd43xvtz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001030927835"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "969"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5WG0bFOJsqMr1JHoQJkY/1/Rp1u9Eq3Ck5nOmlL04HI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 00:12:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NCls1Lvm+bDAXQpo9GSB1hMbB5hQxo3KNrQYVNtAqY0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cwgd43xvtz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/admin-user-management.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NCls1Lvm+bDAXQpo9GSB1hMbB5hQxo3KNrQYVNtAqY0="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin-user-management.cwgd43xvtz.css",
+      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/css/admin-user-management.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NCls1Lvm+bDAXQpo9GSB1hMbB5hQxo3KNrQYVNtAqY0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 00:12:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cwgd43xvtz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/admin-user-management.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NCls1Lvm+bDAXQpo9GSB1hMbB5hQxo3KNrQYVNtAqY0="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin-user-management.cwgd43xvtz.css.gz",
+      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/a7wm0cck6i-cwgd43xvtz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5WG0bFOJsqMr1JHoQJkY/1/Rp1u9Eq3Ck5nOmlL04HI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 00:12:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cwgd43xvtz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/admin-user-management.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5WG0bFOJsqMr1JHoQJkY/1/Rp1u9Eq3Ck5nOmlL04HI="
+        }
+      ]
+    },
+    {
+      "Route": "css/home.css",
+      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/yimtxls2ag-f2v6ufh50b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001038421599"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "962"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WQlXF37brL7OQbIKbRyhKdLwuF0RR4Yqf7kOV29nXik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 01:47:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"x6xo5qEO9uZOIt72FYkYvm9/j3BA6ze+q+3TqH//TIo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x6xo5qEO9uZOIt72FYkYvm9/j3BA6ze+q+3TqH//TIo="
+        }
+      ]
+    },
+    {
+      "Route": "css/home.css",
+      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/css/home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x6xo5qEO9uZOIt72FYkYvm9/j3BA6ze+q+3TqH//TIo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 01:47:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x6xo5qEO9uZOIt72FYkYvm9/j3BA6ze+q+3TqH//TIo="
+        }
+      ]
+    },
+    {
+      "Route": "css/home.css.gz",
+      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/yimtxls2ag-f2v6ufh50b.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "962"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WQlXF37brL7OQbIKbRyhKdLwuF0RR4Yqf7kOV29nXik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 01:47:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WQlXF37brL7OQbIKbRyhKdLwuF0RR4Yqf7kOV29nXik="
+        }
+      ]
+    },
+    {
+      "Route": "css/home.f2v6ufh50b.css",
+      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/yimtxls2ag-f2v6ufh50b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001038421599"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "962"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WQlXF37brL7OQbIKbRyhKdLwuF0RR4Yqf7kOV29nXik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 01:47:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"x6xo5qEO9uZOIt72FYkYvm9/j3BA6ze+q+3TqH//TIo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f2v6ufh50b"
+        },
+        {
+          "Name": "label",
+          "Value": "css/home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x6xo5qEO9uZOIt72FYkYvm9/j3BA6ze+q+3TqH//TIo="
+        }
+      ]
+    },
+    {
+      "Route": "css/home.f2v6ufh50b.css",
+      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/css/home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x6xo5qEO9uZOIt72FYkYvm9/j3BA6ze+q+3TqH//TIo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 01:47:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f2v6ufh50b"
+        },
+        {
+          "Name": "label",
+          "Value": "css/home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x6xo5qEO9uZOIt72FYkYvm9/j3BA6ze+q+3TqH//TIo="
+        }
+      ]
+    },
+    {
+      "Route": "css/home.f2v6ufh50b.css.gz",
+      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/yimtxls2ag-f2v6ufh50b.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "962"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WQlXF37brL7OQbIKbRyhKdLwuF0RR4Yqf7kOV29nXik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 May 2025 01:47:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f2v6ufh50b"
+        },
+        {
+          "Name": "label",
+          "Value": "css/home.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WQlXF37brL7OQbIKbRyhKdLwuF0RR4Yqf7kOV29nXik="
+        }
+      ]
+    },
     {
       "Route": "css/site.css",
       "AssetFile": "/Users/muhammadumeryasin/.nuget/packages/microsoft.aspnetcore.identity.ui/9.0.4/staticwebassets/css/site.css",
@@ -15421,7 +16059,7 @@
       ]
     },
     {
-      "Route": "images/locker-bg.i8i48bgn07.jpg",
+      "Route": "images/locker-bg.grbj6yrgc8.jpg",
       "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/images/locker-bg.jpg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -15431,7 +16069,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "117868"
+          "Value": "158247"
         },
         {
           "Name": "Content-Type",
@@ -15439,11 +16077,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UglKfLgb4XM85hUvXruK1hDGz09nDj+tjPKtL1xQ+fI=\""
+          "Value": "\"tP/npzXkrKvQRqX3aEAlO3Sp0oA3pRLaGZgil8S59xs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 16:18:31 GMT"
+          "Value": "Mon, 26 May 2025 00:49:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15453,7 +16091,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "i8i48bgn07"
+          "Value": "grbj6yrgc8"
         },
         {
           "Name": "label",
@@ -15461,7 +16099,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UglKfLgb4XM85hUvXruK1hDGz09nDj+tjPKtL1xQ+fI="
+          "Value": "sha256-tP/npzXkrKvQRqX3aEAlO3Sp0oA3pRLaGZgil8S59xs="
         }
       ]
     },
@@ -15476,7 +16114,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "117868"
+          "Value": "158247"
         },
         {
           "Name": "Content-Type",
@@ -15484,11 +16122,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UglKfLgb4XM85hUvXruK1hDGz09nDj+tjPKtL1xQ+fI=\""
+          "Value": "\"tP/npzXkrKvQRqX3aEAlO3Sp0oA3pRLaGZgil8S59xs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 May 2025 16:18:31 GMT"
+          "Value": "Mon, 26 May 2025 00:49:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15498,7 +16136,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UglKfLgb4XM85hUvXruK1hDGz09nDj+tjPKtL1xQ+fI="
+          "Value": "sha256-tP/npzXkrKvQRqX3aEAlO3Sp0oA3pRLaGZgil8S59xs="
         }
       ]
     },
@@ -36184,8 +36822,8 @@
       ]
     },
     {
-      "Route": "uploads/0373f869-b27e-44c2-8488-434ed8ea3b3c.i8i48bgn07.jpg",
-      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/uploads/0373f869-b27e-44c2-8488-434ed8ea3b3c.jpg",
+      "Route": "uploads/fc4b637e-e11f-4a82-9bd4-74b1110e81ec.63nz6b68do.zip",
+      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/uploads/fc4b637e-e11f-4a82-9bd4-74b1110e81ec.zip",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -36194,19 +36832,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "117868"
+          "Value": "2409305117"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "application/x-zip-compressed"
         },
         {
           "Name": "ETag",
-          "Value": "\"UglKfLgb4XM85hUvXruK1hDGz09nDj+tjPKtL1xQ+fI=\""
+          "Value": "\"Xm6OJ4RcwfC06ipkGp571PWRRjrEZ3A+pNIkInS2y+A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 23 May 2025 07:30:21 GMT"
+          "Value": "Thu, 05 Jun 2025 21:06:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36216,21 +36854,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "i8i48bgn07"
+          "Value": "63nz6b68do"
         },
         {
           "Name": "label",
-          "Value": "uploads/0373f869-b27e-44c2-8488-434ed8ea3b3c.jpg"
+          "Value": "uploads/fc4b637e-e11f-4a82-9bd4-74b1110e81ec.zip"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UglKfLgb4XM85hUvXruK1hDGz09nDj+tjPKtL1xQ+fI="
+          "Value": "sha256-Xm6OJ4RcwfC06ipkGp571PWRRjrEZ3A+pNIkInS2y+A="
         }
       ]
     },
     {
-      "Route": "uploads/0373f869-b27e-44c2-8488-434ed8ea3b3c.jpg",
-      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/uploads/0373f869-b27e-44c2-8488-434ed8ea3b3c.jpg",
+      "Route": "uploads/fc4b637e-e11f-4a82-9bd4-74b1110e81ec.zip",
+      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/uploads/fc4b637e-e11f-4a82-9bd4-74b1110e81ec.zip",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -36239,138 +36877,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "117868"
+          "Value": "2409305117"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "application/x-zip-compressed"
         },
         {
           "Name": "ETag",
-          "Value": "\"UglKfLgb4XM85hUvXruK1hDGz09nDj+tjPKtL1xQ+fI=\""
+          "Value": "\"Xm6OJ4RcwfC06ipkGp571PWRRjrEZ3A+pNIkInS2y+A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 23 May 2025 07:30:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UglKfLgb4XM85hUvXruK1hDGz09nDj+tjPKtL1xQ+fI="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/93487d77-33a4-4771-93cb-2fc185683b62.jpg",
-      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/uploads/93487d77-33a4-4771-93cb-2fc185683b62.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3787895"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z0N1Ic+6j342WKqZCh9IyadCYGhKtb+nDl492MBxMj4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 23 May 2025 07:03:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Z0N1Ic+6j342WKqZCh9IyadCYGhKtb+nDl492MBxMj4="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/93487d77-33a4-4771-93cb-2fc185683b62.ve1hiwp3wd.jpg",
-      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/uploads/93487d77-33a4-4771-93cb-2fc185683b62.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3787895"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z0N1Ic+6j342WKqZCh9IyadCYGhKtb+nDl492MBxMj4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 23 May 2025 07:03:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ve1hiwp3wd"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/93487d77-33a4-4771-93cb-2fc185683b62.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Z0N1Ic+6j342WKqZCh9IyadCYGhKtb+nDl492MBxMj4="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/af1ac5db-87ab-4f68-9a03-9f4003f99e5c.pdf",
-      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/uploads/af1ac5db-87ab-4f68-9a03-9f4003f99e5c.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "201055"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9f27Vo/0oisEOhWe6uCffSyy9GX6/+13fxnERQbw6VQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 23:45:36 GMT"
+          "Value": "Thu, 05 Jun 2025 21:06:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -36380,52 +36899,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9f27Vo/0oisEOhWe6uCffSyy9GX6/+13fxnERQbw6VQ="
-        }
-      ]
-    },
-    {
-      "Route": "uploads/af1ac5db-87ab-4f68-9a03-9f4003f99e5c.ty18mbe6lk.pdf",
-      "AssetFile": "/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/wwwroot/uploads/af1ac5db-87ab-4f68-9a03-9f4003f99e5c.pdf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "201055"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/pdf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9f27Vo/0oisEOhWe6uCffSyy9GX6/+13fxnERQbw6VQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 23:45:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ty18mbe6lk"
-        },
-        {
-          "Name": "label",
-          "Value": "uploads/af1ac5db-87ab-4f68-9a03-9f4003f99e5c.pdf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-9f27Vo/0oisEOhWe6uCffSyy9GX6/+13fxnERQbw6VQ="
+          "Value": "sha256-Xm6OJ4RcwfC06ipkGp571PWRRjrEZ3A+pNIkInS2y+A="
         }
       ]
     }

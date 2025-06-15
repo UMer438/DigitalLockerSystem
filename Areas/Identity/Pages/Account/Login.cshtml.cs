@@ -34,12 +34,7 @@ namespace DigitalLockerSystem.Areas.Identity.Pages.Account
             [DataType(DataType.Password)]
             public string Password { get; set; }
 
-            [Required]
-            [DataType(DataType.Password)]
-            [Display(Name = "Confirm Password")]
-            [Compare("Password", ErrorMessage = "Password and confirmation password do not match.")]
-            public string ConfirmPassword { get; set; }
-
+          
             [Display(Name = "Remember Me")]
             public bool RememberMe { get; set; }
         }

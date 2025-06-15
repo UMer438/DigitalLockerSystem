@@ -4,6 +4,9 @@
     ViewData["Title"] = "Admin - User Management";
 }
 
+@section Styles {
+    <link rel="stylesheet" href="~/css/admin-user-management.css" />
+}
 <h2>User Management</h2>
 
 @if (TempData["Message"] != null)
@@ -27,9 +30,9 @@
         @foreach (var user in Model)
         {
             <tr>
-                <td>@user.Email</td>
-                <td>@string.Join(", ", user.Roles)</td>
-                <td>
+                <td data-label="Email">@user.Email</td>
+                <td data-label="Roles">@string.Join(", ", user.Roles)</td>
+                <td data-label="Status">
                     @if (user.IsBlocked)
                     {
                         <span class="badge bg-danger">Blocked</span>
@@ -39,12 +42,12 @@
                         <span class="badge bg-success">Active</span>
                     }
                 </td>
-                <td>
-                    <a asp-action="EditRoles" asp-route-id="@user.Id" class="btn btn-sm btn-primary me-1">Edit Roles</a>
+                <td data-label="Actions">
+                    <a asp-action="EditRoles" asp-route-id="@user.Id" class="btn btn-sm btn-primary me-1 mb-1">Edit Roles</a>
 
                     @if (user.IsBlocked)
                     {
-                        <form asp-action="UnblockUser" method="post" class="d-inline">
+                        <form asp-action="UnblockUser" method="post" class="d-inline mb-1">
                             @Html.AntiForgeryToken()
                             <input type="hidden" name="userId" value="@user.Id" />
                             <button type="submit" class="btn btn-sm btn-success">Unblock</button>
@@ -52,7 +55,7 @@
                     }
                     else
                     {
-                        <a asp-action="BlockUser" asp-route-id="@user.Id" class="btn btn-sm btn-warning">Block</a>
+                        <a asp-action="BlockUser" asp-route-id="@user.Id" class="btn btn-sm btn-warning mb-1">Block</a>
                     }
                 </td>
             </tr>

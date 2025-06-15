@@ -1021,3 +1021,5 @@
 /Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
 /Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
 /Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/a7wm0cck6i-cwgd43xvtz.gz
+/Users/muhammadumeryasin/Desktop/DigitalLockerSystem /DigitalLockerSystem/obj/Debug/net9.0/compressed/yimtxls2ag-f2v6ufh50b.gz

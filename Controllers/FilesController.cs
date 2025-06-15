@@ -22,10 +22,17 @@ namespace DigitalLockerSystem.Controllers
             _environment = environment;
         }
 
-        public async Task<IActionResult> MyFiles()
+        public async Task<IActionResult> MyFiles(string search)
         {
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
             var files = await _fileRepository.GetFilesByUserIdAsync(userId);
+
+            if (!string.IsNullOrWhiteSpace(search))
+            {
+                files = files.Where(f => f.OriginalFileName.Contains(search, StringComparison.OrdinalIgnoreCase)).ToList();
+            }
+
+            ViewBag.SearchQuery = search;
             return View(files);
         }
 
@@ -60,7 +67,7 @@ namespace DigitalLockerSystem.Controllers
             return View();
         }
 
-        [HttpPost]
+       /* [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Upload(Microsoft.AspNetCore.Http.IFormFile file)
         {
@@ -70,19 +77,17 @@ namespace DigitalLockerSystem.Controllers
                 return View();
             }
 
-           
-            if (file.Length > 5L * 1024 * 1024 * 1024)
+            if (file.Length > 25L * 1024 * 1024 * 1024)
             {
                 ModelState.AddModelError("", "File size cannot exceed 5 GB.");
                 return View();
             }
 
-            var permittedExtensions = new[] { ".pdf", ".jpg", ".jpeg", ".png", ".gif", ".mp4" };
             var ext = Path.GetExtension(file.FileName).ToLowerInvariant();
 
-            if (string.IsNullOrEmpty(ext) || Array.IndexOf(permittedExtensions, ext) < 0)
+            if (string.IsNullOrEmpty(ext))
             {
-                ModelState.AddModelError("", "Unsupported file type.");
+                ModelState.AddModelError("", "File must have a valid extension.");
                 return View();
             }
 
@@ -114,7 +119,66 @@ namespace DigitalLockerSystem.Controllers
 
             TempData["Message"] = "File uploaded successfully!";
             return RedirectToAction(nameof(MyFiles));
-        }
+        }*/
+       [HttpPost]
+       [ValidateAntiForgeryToken]
+       public async Task<IActionResult> Upload(List<Microsoft.AspNetCore.Http.IFormFile> files)
+       {
+           if (files == null || files.Count == 0)
+           {
+               ModelState.AddModelError("", "Please select at least one file.");
+               return View();
+           }
+
+           var uploadPath = Path.Combine(_environment.WebRootPath, "uploads");
+           if (!Directory.Exists(uploadPath))
+               Directory.CreateDirectory(uploadPath);
+
+           var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+           foreach (var file in files)
+           {
+               if (file == null || file.Length == 0)
+                   continue;
+
+               if (file.Length > 25L * 1024 * 1024 * 1024)
+               {
+                   ModelState.AddModelError("", $"File {file.FileName} exceeds the 5 GB limit.");
+                   continue;
+               }
+
+               var ext = Path.GetExtension(file.FileName).ToLowerInvariant();
+               if (string.IsNullOrEmpty(ext))
+               {
+                   ModelState.AddModelError("", $"File {file.FileName} has an invalid extension.");
+                   continue;
+               }
+
+               var storedFileName = Guid.NewGuid().ToString() + ext;
+               var filePath = Path.Combine(uploadPath, storedFileName);
+
+               using (var stream = new FileStream(filePath, FileMode.Create))
+               {
+                   await file.CopyToAsync(stream);
+               }
+
+               var fileRecord = new Models.File
+               {
+                   UserId = userId,
+                   OriginalFileName = file.FileName,
+                   StoredFileName = storedFileName,
+                   ContentType = file.ContentType,
+                   UploadDate = DateTime.UtcNow
+               };
+
+               await _fileRepository.AddFileAsync(fileRecord);
+           }
+
+           TempData["Message"] = "Files uploaded successfully!";
+           return RedirectToAction(nameof(MyFiles));
+       }
+
+
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Delete(int id)
@@ -127,20 +191,16 @@ namespace DigitalLockerSystem.Controllers
             if (file.UserId != userId)
                 return Forbid();
 
-            
             var filePath = Path.Combine(_environment.WebRootPath, "uploads", file.StoredFileName);
             if (System.IO.File.Exists(filePath))
             {
                 System.IO.File.Delete(filePath);
             }
 
-         
             await _fileRepository.DeleteFileAsync(file);
 
             TempData["Message"] = "File deleted successfully.";
             return RedirectToAction(nameof(MyFiles));
         }
-
-        
     }
 }

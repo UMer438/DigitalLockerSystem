@@ -28,4 +28,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: umeryasin528/digitallocker:latest
+          tags: umeryasin528/digitallocker:net8
